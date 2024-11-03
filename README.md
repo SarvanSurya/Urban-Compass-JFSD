@@ -37,3 +37,6 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 
 ## Acknowledgements
 The collaborative effort of our team was crucial to the project's implementation. I'd especially like to acknowledge my amazing teammates and our mentor, [Surya Kiran Sir](https://github.com/suryakiran1993) whose commitment and knowledge were essential to the project's completion.
+
+![Urban Compass Smart City Guide](https://github.com/user-attachments/assets/a68628e1-6055-43b8-9a29-4dd52b90ad41)
+
